@@ -20,16 +20,16 @@ This figure shows GSWP3-W5E5 simulation for sensible heat flux for 1997-03-22.
 
 ![plot](./output/gotm_20crv3-w5e5_obsclim_histsoc_default_watertemp_global_daily_1931_1940.nc_lake_21133HL123.png)
 
-This figure shows 20CRv3-W5E5 simulation for the Lake Hulun (coordinates: 48.75,117.25; max depth: 19.81m) on the year 1931.
+This figure shows 20CRv3-W5E5 simulation for the Lake Hulun (coordinates: 48.75,117.25; max depth: 19.81m) on the year 1931. Temperature units are in Kelvin, lines represent temperature at different depth from surface to bottom.
 
 ![plot](./output/gotm_20crv3-w5e5_obsclim_histsoc_default_watertemp_global_daily_1931_1940.nc_lake_6805HL163.png)
 
-This figure shows 20CRv3-W5E5 simulation for the Lake Kivu (coordinates: -2.25,29.25; max depth: 475m) on the year 1931.
+This figure shows 20CRv3-W5E5 simulation for the Lake Kivu (coordinates: -2.25,29.25; max depth: 475m) on the year 1931. Temperature units are in Kelvin, lines represent temperature at different depth from surface to bottom.
 
 ![plot](./output/gotm_20crv3-w5e5_obsclim_histsoc_default_watertemp_global_daily_1931_1940.nc_lake_7852HL15892.png)
 
-This figure shows 20CRv3-W5E5 simulation for the Lake Bosumtwi (coordinates: 6.75,-1.25; max depth: 22.41m) on the year 1931.
+This figure shows 20CRv3-W5E5 simulation for the Lake Bosumtwi (coordinates: 6.75,-1.25; max depth: 22.41m) on the year 1931. Temperature units are in Kelvin, lines represent temperature at different depth from surface to bottom.
 
 ![plot](./output/gotm_20crv3-w5e5_obsclim_histsoc_default_watertemp_global_daily_1931_1940.nc_lake_17447HL9086.png)
 
-This figure shows 20CRv3-W5E5 simulation for the Lake Mendota (coordinates: 43.25,-89.25; max depth: 25.3m) on the year 1931.
+This figure shows 20CRv3-W5E5 simulation for the Lake Mendota (coordinates: 43.25,-89.25; max depth: 25.3m) on the year 1931. Temperature units are in Kelvin, lines represent temperature at different depth from surface to bottom.
